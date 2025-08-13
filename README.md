@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo Peñaherrera</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the97prime" alt="the97prime" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TeemoAFK" alt="TeemoAFK" /></a> </p>
 
 - 🔭 I’m currently working on my own bussisenes [IT SERVICE EC](https://itserviceec.com)
 
