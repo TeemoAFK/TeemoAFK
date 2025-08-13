@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the97prime" alt="the97prime" /></a> </p>
 
-- 🔭 I’m currently working on [GK City](https://gk.city)
+- 🔭 I’m currently working on my own bussisenes [IT SERVICE EC](https://itserviceec.com)
 
-- 👨‍💻 All of my projects are available at [https://portafolio-mateo.web.app](https://portafolio-mateo.web.app)
-
-- 📝 I regularly write articles on [https://gk.city/author/mateo](https://gk.city/author/mateo)
+- 👨‍💻 All of my projects are available at [IT Service EC](https://itserviceec.com)
 
 - 💬 Ask me about **react, vue and symfony**
 
-- 📫 How to reach me **mateo_penaherrera@yahoo.com**
+- 📫 How to reach me **mateo@itserviceec.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b9gyJhZeXRROaCzgTOOsMfI3E8L17NP6/view](https://drive.google.com/file/d/1b9gyJhZeXRROaCzgTOOsMfI3E8L17NP6/view)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mateo-penaherrera-s/](https://www.linkedin.com/in/mateo-penaherrera-s/)
 
 - ⚡ Fun fact **I think I´m funny and a great geek**
 
